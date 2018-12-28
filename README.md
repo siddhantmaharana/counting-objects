@@ -60,6 +60,10 @@ contour area limit the contours to that point.
 ![Images which OpenCV detected well](https://raw.githubusercontent.com/siddhantmaharana/counting-objects/master/opencv.jpg)
 
 
+### Problematic detection with OpenCV
+![Images where OpenCV failed](https://raw.githubusercontent.com/siddhantmaharana/counting-objects/master/opencv_problems.jpg)
+
+
 ## 2. Deep Learning Techniques
 
 ### TensorFlow Object Detection API with SSD model with Mobilenet
@@ -77,5 +81,10 @@ a faster RCNN model trained on MSCOCO data set was used.
 Similar to above, a threshold of 15 percent was used to count the objects in the dataset.
 The Faster RCNN trained on Open Images by google on was fed to the Object Detection API and tested on the dataset with
 similar thresholds for detecting bounding boxes and categories.
+
+### Detecting objects with RCNN
+![Images which RCNN detected](https://raw.githubusercontent.com/siddhantmaharana/counting-objects/master/rcnn.jpg)
+![Images which RCNN detected](https://raw.githubusercontent.com/siddhantmaharana/counting-objects/master/rcnn1.jpg)
+
 
 
