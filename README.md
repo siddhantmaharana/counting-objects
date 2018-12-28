@@ -84,7 +84,7 @@ similar thresholds for detecting bounding boxes and categories.
 
 ### Detecting objects with RCNN
 ![Images which RCNN detected](https://raw.githubusercontent.com/siddhantmaharana/counting-objects/master/rcnn.jpg)
-![Images which RCNN detected](https://raw.githubusercontent.com/siddhantmaharana/counting-objects/master/rcnn_2jpg)
+![Images which RCNN detected](https://raw.githubusercontent.com/siddhantmaharana/counting-objects/master/rcnn_2.jpg)
 
 
 
