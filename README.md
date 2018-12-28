@@ -56,6 +56,9 @@ implemented an algorithm to remove the unwanted contours. The following are the 
 contour area limit the contours to that point.
 4. Create a convex hull of all the relevant contours
 
+### Detecting objects via OpenCV
+![Images which OpenCV detected well](https://raw.githubusercontent.com/siddhantmaharana/counting-objects/master/opencv.jpg)
+
 
 ## 2. Deep Learning Techniques
 
